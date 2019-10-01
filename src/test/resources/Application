@@ -1,0 +1,10 @@
+marvel.gateway.url=https://gateway.marvel.com:443
+marvel.user.public.apikey=74cc1c6a4d06cd3c42404d114b4cd529
+marvel.user.private.apikey=511d0b016675c1f8d70937d0a5d52dc075f92068
+marvel.user.id=vikasb8867251
+marvel.api=/v1/public/characters
+marvel.api.characters.get.api=/v1/public/characters?name={chracterName}&ts={timeStamp}&apikey={userApiKey}&hash={hashKey}
+marvel.api.characters.get.mandatory.attributes="id","name","description","modified","resourceURI","thumbnail","comics","stories","events","urls","series","X"
+api_offset_limit=https://gateway.marvel.com:443/v1/public/characters?limit=5name=Spider-Man&ts={{dateNow}}&apikey={{apikey}}&hash={{hash}}
+api_offset_limit2=https://gateway.marvel.com:443/v1/public/characters?limit=100&ts={{dateNow}}&apikey={{apikey}}&hash={{hash}}&offset=100
+
