@@ -18,7 +18,7 @@
     <htmlunit-webdriver.version>2.35.1</htmlunit-webdriver.version>
     <io-cucumber.version>4.2.0</io-cucumber.version>
     <cucumber-jvm.version>3.0.2</cucumber-jvm.version>
-    <commons.io.version>2.6</commons.io.version>
+    <commons.io.version>2.7</commons.io.version>
     <apache-commonsio.version>2.6</apache-commonsio.version>
     <hamcrest.version>2.1</hamcrest.version>
     <jayway-json.version>2.4.0</jayway-json.version>
